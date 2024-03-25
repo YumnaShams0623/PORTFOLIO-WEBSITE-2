@@ -1,0 +1,15 @@
+body{
+    margin: 60px;
+}
+h1{
+   text-align: center; 
+}
+ins{
+    background-color: orange;
+}
+h2{
+    background-color: orange;
+}
+p{
+    background-color: rgb(247, 201, 116) ;
+}
