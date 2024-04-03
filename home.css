@@ -1,29 +1,85 @@
+
 h1{
     text-align: center;
+    text-decoration: underline double #ffffff;
+    color: #000000;
+    text-shadow: 4px 2px 3px #ffff0089;
 }
+
 body{
-    background-color:  rgb(252, 223, 228);
+    background-color:  #c1d5e1fe;
+    margin: 150px;
+    margin-top: 20px;
 }
-ins{
-    background-color:rgb(241, 182, 73);
+
+fieldset :hover{
+  background-color:rgb(191, 12, 114);
 }
 fieldset{
-    background-color: palevioletred;
+    background-color: #a3c2fb;
+    text-align: left;
 }
 legend{
     text-align: center;
     font-family:sans-serif ;
+    text-shadow: 3px 2px 3px #e8e861;
+    
 }
 table{
     text-align: center;
+    
 }
 th{
-    background-color:palevioletred; 
+    background-color:#fdf3f6; 
+    
 }
-nav{
-    background-color:rgb(183, 216, 237); 
+td{
+    color: #000000;
 }
+
 table,tr,th,td{
-    border: 1px solid black;
-    border: 1px solid black;
+    border: 1px solid #010101;
+    border: 1px solid #000000;
  }
+ h2{
+  font-weight: 600;
+  color: #0b0b0b;
+ }
+figcaption{
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: #000000;
+    text-shadow: 3px 2px 3px #e8e861;
+    text-decoration: underline double #ffffff;
+}
+li{
+    color: #ffffff;
+}
+a{
+    color: white;
+    text-shadow: 3px 2px 3px yellow;
+    
+}
+a :hover{
+    background-color:darkblue;
+}
+div{
+    font-weight: bold;
+   
+    color: rgb(6, 6, 6);
+}
+figure{
+   box-sizing: border-box 40 px;
+}
+button{
+    text-transform: uppercase;
+    height: 50px;
+    width: 100px;
+    background-color: #000000;
+}
+
+
+
+ 
+

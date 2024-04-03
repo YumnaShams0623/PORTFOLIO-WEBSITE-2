@@ -1,8 +1,32 @@
 body{
     background-color:rgb(0, 0, 0) ;
-    margin: "100px;"
+    margin: "200px;"
 }
-#heading{
-   background-color: "rgb(154, 173, 248);"
+#header{
+    background-color: "black"
 }
+ol{
+    color: white;
+}
+a{
+    color: rgb(16, 16, 16);
+  text-decoration: none;
 
+}
+ button :hover{
+    background-color: rgb(70, 152, 162);
+}
+button :active{
+    background-color: rgb(26, 0, 75);
+}
+button :focus{
+    color: white;
+}
+button{
+    width: 150px;
+    height: 40px;
+    font-family:'time new roman';
+    font-weight: bolder;
+    font-size: large;
+    background-color: lightblue;
+}

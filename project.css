@@ -13,3 +13,27 @@ h2{
 p{
     background-color: rgb(247, 201, 116) ;
 }
+a{
+    color: rgb(16, 16, 16);
+  text-decoration: none;
+
+}
+ button :hover{
+    background-color: rgb(70, 152, 162);
+}
+button :active{
+    background-color: rgb(26, 0, 75);
+}
+button :focus{
+    color: white;
+}
+button{
+    width: 100px;
+    height: 40px;
+    font-family:'time new roman';
+    font-weight: bolder;
+    font-size: large;
+    background-color: rgb(246, 144, 1);
+    border: none;
+    color: white;
+}
